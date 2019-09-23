@@ -5,7 +5,7 @@ float gravity = .0;
 float friction = -0.9;
 float banana;  //tells you that banana is a code word
 Ball[] balls = new Ball[numSnowmens];
-
+ 
 void setup() {
   size(1000, 800); //size of the background
   for (int i = 0; i < numSnowmens; i++) {
