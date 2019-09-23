@@ -1,4 +1,4 @@
-# processing-test-code
+# processing-snowmen-code
 int numSnowmens = 40;  //amount of snowmen
 float spring = 0.40;  //2-4 controls movement of snowmen
 float gravity = .0;
